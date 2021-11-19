@@ -8,3 +8,4 @@ C:\My Project\TestProject\TestProject\obj\Debug\TestProject.csproj.GenerateResou
 C:\My Project\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
 C:\My Project\TestProject\TestProject\obj\Debug\TestProject.exe
 C:\My Project\TestProject\TestProject\obj\Debug\TestProject.pdb
+C:\My Project\TestProject\TestProject\obj\Debug\TestProject.Form2.resources
