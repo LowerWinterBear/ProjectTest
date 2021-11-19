@@ -1,0 +1,10 @@
+C:\My Project\TestProject\TestProject\bin\Debug\TestProject.exe.config
+C:\My Project\TestProject\TestProject\bin\Debug\TestProject.exe
+C:\My Project\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\My Project\TestProject\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
+C:\My Project\TestProject\TestProject\obj\Debug\TestProject.Form1.resources
+C:\My Project\TestProject\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\My Project\TestProject\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+C:\My Project\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\My Project\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\My Project\TestProject\TestProject\obj\Debug\TestProject.pdb
